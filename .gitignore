@@ -1,0 +1,11 @@
+.nyc_output/
+coverage/
+node_modules/
+cache/
+tmp/
+
+package-lock.json
+*.log
+*.txt
+*.orig
+.npmrc
