@@ -20,7 +20,7 @@ This is a [Node.js](https://nodejs.org/en/) module available through the
 
 ### \\cors>npm run test
 
-```javascript
+```
 
 > cors@2.8.5 test \cors
 > npm run lint && nyc --reporter=html --reporter=text mocha --require test/support/env
